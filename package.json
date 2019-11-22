@@ -1,0 +1,22 @@
+{
+  "name": "projetofuncionarios",
+  "version": "1.0.0",
+  "description": "projeto funcionarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoferreiramilioli/projetofunc.git"
+  },
+  "author": "rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoferreiramilioli/projetofunc/issues"
+  },
+  "homepage": "https://github.com/rodrigoferreiramilioli/projetofunc#readme",
+  "dependencies": {
+    "restify": "^8.4.0"
+  }
+}

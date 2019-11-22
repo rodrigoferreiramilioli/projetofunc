@@ -1,0 +1,8 @@
+os: linux
+dist: trusty
+language: node_js
+group: stable
+node_js:
+  - "8"
+script:
+  - npm test
